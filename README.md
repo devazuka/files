@@ -1,0 +1,2 @@
+# files
+selfhosted seafile
